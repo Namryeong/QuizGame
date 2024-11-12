@@ -1,5 +1,5 @@
 # QuizGame
-Java socket을 이용한 Quiz Game
+Java socket을 이용한 컴퓨터 네트워크 Quiz Game
 
 ![image](https://github.com/user-attachments/assets/5547306a-7b6c-4150-823d-43f183f6828e)
 
@@ -21,4 +21,3 @@ Java socket을 이용한 Quiz Game
 5.	위 절차를 quiz_questions 배열이 끝날 때까지 반복한다.
 6.	모든 문제를 전송하고 응답을 받으면 Server는 Client에게 Total score를 전송한다.
 7.	Client는 Total score 메시지를 받으면 연결을 종료한다.
-
